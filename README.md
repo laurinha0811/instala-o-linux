@@ -1,6 +1,3 @@
-# instala-o-linux
-Processo de instalação do Linux na máquina virtual.
-
 # Documentação: Instalação do Linux em Máquina Virtual
 
 ## Introdução
