@@ -45,7 +45,7 @@ Este documento descreve o processo de instalação do Linux em uma máquina virt
    - Siga as instruções para configurar as partições (raiz, swap, etc.).
 
 6. **Instale o Sistema Base e Configure o Gerenciador de Pacotes:**
-   - Selecione os pacotes adicionais desejados (recomendado: ambiente gráfico, ferramentas de desenvolvimento).
+   - Selecione os pacotes adicionais desejados.
    - Complete a instalação e reinicie a máquina virtual.
 
 ### 3. Pós-instalação
